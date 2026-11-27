@@ -1,0 +1,26 @@
+# Belamba Freelance Quantity Survey Service
+
+> Belamba is a freelance quantity surveyor based in Addis Ababa, Ethiopia, serving architects, contractors, developers and homeowners worldwide. Services are delivered remotely: quantity takeoffs from architectural and structural drawings, Bills of Quantities (BOQ), rebar bar bending schedules (BBS) and 5D BIM quantity outputs.
+
+Prices are shown on the Pricing page in USD and depend on building size (number of floors) and the scope of work. To request a quote, send your drawings through the contact form or by email.
+
+## Services
+
+- [2D PDF Material Takeoffs](https://belamba--global-client-service.pages.dev/#services): Quantities taken from PDF architectural and structural drawings.
+- [Bill of Quantities (BOQ) Setup](https://belamba--global-client-service.pages.dev/#services): Priced-ready BOQs in several standards (CSI MasterFormat, RICS NRM 2, DIN 276, ICMS, CSC/CIQS, Metric and Imperial).
+- [Rebar & Bar Bending Schedules (BBS)](https://belamba--global-client-service.pages.dev/#services): Reinforcement schedules from structural drawings.
+- [5D BIM Quantity Takeoffs](https://belamba--global-client-service.pages.dev/#bim-results): Model-based quantity outputs and PlanSwift workflows.
+- [Subcontractor Trade Takeoffs](https://belamba--global-client-service.pages.dev/#services): Trade-specific quantities for subcontractors.
+- [Insurance Repair BOQs](https://belamba--global-client-service.pages.dev/#services): BOQs for repair and restoration claims.
+
+## Key pages
+
+- [Home](https://belamba--global-client-service.pages.dev/#home): Overview of the remote estimating service.
+- [Pricing](https://belamba--global-client-service.pages.dev/#pricing): Price ranges in USD by building category and scope, plus how the process works.
+- [Takeoff Samples](https://belamba--global-client-service.pages.dev/#samples): Sample BOQ and takeoff layouts in different standards.
+- [5D BIM & PlanSwift Results](https://belamba--global-client-service.pages.dev/#bim-results): Gallery of takeoff layouts and bar bending schedule outputs.
+- [Submit Drawings & Contact](https://belamba--global-client-service.pages.dev/#contact): Contact form for project quotes.
+
+## Contact
+
+- Email: belayamba1984@gmail.com
